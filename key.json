@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "customer-support-chat-bo-467bf",
+  "private_key_id": "4896f01cf1cf6d9caf9e76d392fa4a54b6c3ceb6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDKLBJUlUnBg15e\nHPJO6hkKfnBT6bNhRyNo6ZrNCjRG9fj7ZrrdPlu/CfUrF+Wq6nZiKJ3h88dzOgEe\nipNZT2RB3G4HRvqJStrvxARti+/t32P+5L/VrOqXGmXPmv9xv88TWMn+QAbnfIP/\nBvVFNPJutQcIsjkIn5sD8VTKQ+9U2y5wmhGbOiH5oNfTGag+qBofN42rfRR0YYed\nrqeUba+Z/BIhW/m/zeQS+wUDxBgn4ODRj8JT1u9B88dTwcIv9v9f2h+e7rAul4KV\nx4KoYqQpzqNv7ao5yUsQR665H8yXh6zxOEXej4AbtO4elfSge8+5fhfkvqjjeasU\nXFOrfbA7AgMBAAECggEAWbXuuFu6a8U4ZbigiQX18KMkgwfL0lm3y8EFMQDbK7XQ\nMvZl6vDV01K+2M102z/JIkt1q6L6GRZfEsdZFSNWkKcYp+AGIk/2ELjBYj7bS4l6\nHMwyl8VwH3bWQKY9vaLoZ2RZ1ZlhtuyYwdy7j2csQJXRtjknd70jEz/OaSZ2GAeU\nUjvBTfwfFHtdOX3zBHAyJ6mzPQUsmDy0zf9vaCYfUlL2SabdRDIZUrcr0xNMNayv\nVD/LfJBcnGJqXylN9/eBBUo8wihK8ZFfS0jHp/HEbkk15Sdfq5N7fnRrgXtTD6eC\ncRcRV0lUzxUaQLtJk04KiazUltu8vi4g97vijybhaQKBgQDu5mg0P6XDPLp7rgtM\nCMyNcdQ9opIEbp0ZZvcze4GnUKyzvcEvcAMuDzy58IOGbyjidRDw9SPOP4/u4rJk\n4Xo1cdOd0gEO39bw15kWP+/ndw2toK2M1JGSF6rk7zJi5Gm+ej6rpAJBuB/SUIjG\ndBdp0HzXeIMMuUOc6v1PNGEOlwKBgQDYpKorp2VjTSRRakgGLx8W9v/4vyv/NIa0\nGnT1/T/gdSoA3pKIpkuyXy89YmYezHS618fAxeqNE8ITLdEXRr7WedLVP9wX+Shr\nZClGNJYEJteQkCXvro3ZuAaOfh4SMrPawiOrDpMokk8+vJTieuISMjdX//0BsMri\n5WVM2h2D/QJ/U/yspbG6lOjEpraJQjHVt+RMuV5t9yDsGgIY5gCFlEzIamhLgmHe\nvFKfBr+HfbuWpAaD7jJAZEH0WAdasByU2jUqMFGkDZaj+gfRygCwVq+EH4ZdfSU+\nCB5J9jIhhKLIii5v2efO40vX5Bhr/VjS4mBpg1bau55mJsR2SWIgvQKBgGZwblrX\n+5QZ7PtmYwoxi+TjBKSNWPOC1dMh035hsqujGypwFB/zakW8xmyjM6CKkwOqdrTL\noR32YsWI257DAAgQcMYPPTZExX0KTo343Zq29yVPU/DivAZgAxGrxvJZ8TuWoyEG\nckUz8a67ozb4Xh+2iP7ed7ct7rGdQOo3FM/NAoGBAJblV9xZ5TcQldSRM8SbtPM0\nWgty9gNsGb7ZzhFvCCzMimzQcz8ahyv8G92TynLGg6AQtOKhQE7gPh91GnwpTkG3\nOpw0+M7Un8uaYwq1DdwHmXVDRFqO2DyB4IPCEsmQ7X25L8da0uQ8n7giRQHVgV/M\nnNU1epoUdkIo0CF9Mj2A\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-oswqe@customer-support-chat-bo-467bf.iam.gserviceaccount.com",
+  "client_id": "104725648816377348779",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-oswqe%40customer-support-chat-bo-467bf.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
